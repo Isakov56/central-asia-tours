@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Calendar, Users, MapPin, Star, Clock, Euro, Check } from 'lucide-react';
+import { MapPin, Star, Clock, Euro, Check } from 'lucide-react';
 import { tourPackages } from '../data/destinations';
 
 const ToursPage = () => {
